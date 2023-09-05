@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Encode+Sans+SC:wght@600&display=swap');
+
+
+a{
+        color:rgb(126, 17, 104)
+    } 
+ul{ 
+    background-color: #446f44c0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26pt;
+}
+#barra_arriba{
+    border-color: rgb(2, 28, 7);
+    position: relative;
+    margin-left: 80%;
+    margin-top: 0%;
+}
+ P {
+
+        font-size : 12pt;
+        
+        font-family : "Balsamiq Sans", sans-serif;
+        
+        font-weight : normal;
+        background-color: rgba(255, 127, 202, 0.721);
+        margin:0px;
+     }
+        
+H1 {
+        
+        font-size : 40pt;
+        
+        font-family : "Encode Sans SC";
+        
+        text-decoration:solid;
+        
+        text-align : center;
+        
+        background-color: rgba(120, 21, 85, 0.555);
+
+        margin-left: 30%;
+        margin-right: 30%;
+        padding: 15px;
+        border-radius: 150px;
+
+        
+        
+    }
+        
+h2{
+    font-size: 22pt;
+    font-family:  "Encode Sans SC";
+    background-color: #274427a6;
+    margin-right: 60px;
+    padding:10px;
+    text-align: center;
+    margin-left:200px;
+    
+}
+h3{
+    font-size:16pt;
+    font-family:"Balsamiq Sans";
+    background-color:rgba(0, 0, 0, 0.556);
+}
+TD {
+        
+        font-size : 10pt;
+        
+        font-family : "Encode Sans SC";
+        
+        text-align : center;
+        
+        background-color : 666666;
+        
+    }
+      /*ver header, footer, etc*/  
+BODY {
+        
+    background-color : #446f44a1;
+    
+       
+        color : White;
+
+        background-image:url(../img/design-green-leaves_603843-3760.avif);
+        background-repeat:no-repeat;
+        background-position:fixed;
+        background-size: cover;
+
+    }
+nav{
+    font-family:"Balsamiq Sans";
+}
+footer{ font-size : 20pt;
+        
+    font-family : "Encode Sans SC";
+    margin-top: 280px;
+    margin-bottom: 0;
+    text-align : center;
+    
+    background-color : rgba(122, 36, 122, 0.762);
+    position:fixed;
+    
+
+}
